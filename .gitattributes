@@ -1,0 +1,4 @@
+. filter=lfs diff=lfs merge=lfs -text
+PATTERN_012.pt filter=lfs diff=lfs merge=lfs -text
+PATTERN_014.pt filter=lfs diff=lfs merge=lfs -text
+PATTERN_016.pt filter=lfs diff=lfs merge=lfs -text
